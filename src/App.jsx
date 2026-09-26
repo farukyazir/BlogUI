@@ -9,7 +9,8 @@ import Cybersecurity from './components/Cybersecurity'
 import Datascience from './components/Datascience'
 import Fullstackdev from './components/Fullstackdev'
 import Error from './components/Error'
-import Blog from './components/blog'
+import Blog from './components/Blog'
+
 
 const App = () => {
     const router = createBrowserRouter([
