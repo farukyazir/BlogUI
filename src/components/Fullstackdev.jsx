@@ -1,6 +1,6 @@
 import React from 'react'
 import blogs from '../data/blogsData'
-import Blogcard from './blogcard'
+import Blogcard from './Blogcard'
 
 const Fullstackdev = () => {
   const fullstackBlogs = blogs.filter((blog)=>
