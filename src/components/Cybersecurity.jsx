@@ -1,6 +1,5 @@
 import React from 'react'
 import blogs from '../data/blogsData'
-import Blog from './blog'
 import Blogcard from './blogcard'
 
 const Cybersecurity = () => {
